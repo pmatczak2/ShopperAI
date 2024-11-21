@@ -1,0 +1,14 @@
+# Core ML/DL frameworks
+torch>=2.0.0
+pytorch-lightning>=2.0.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Development and notebooks
+jupyter>=1.0.0 

@@ -1,1 +1,23 @@
 .venv/
+.cursor_rules
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+
+# Data
+data_set/*.csv
+
+# IDEs
+.vscode/
+.idea/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Distribution
+dist/
+build/
+*.egg-info/
